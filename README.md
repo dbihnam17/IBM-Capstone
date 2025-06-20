@@ -2,6 +2,8 @@
 
 This repository contains the final project for the IBM Data Science Professional Certificate. The capstone focuses on using historical launch data to predict the success of SpaceX Falcon 9 first-stage landings.
 
+[Certificate of completion](https://www.coursera.org/account/accomplishments/specialization/certificate/TGWYRSWLK54P)
+
 ## 📌 Project Objective
 
 The reusability of rocket boosters is critical for lowering the cost of space exploration. This project aims to predict whether a Falcon 9 rocket will successfully land its first stage, using machine learning models trained on publicly available data.
