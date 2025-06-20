@@ -39,6 +39,7 @@ The reusability of rocket boosters is critical for lowering the cost of space ex
 - Best-performing model: **Decision tree**
 - Top predictors: `Launch Site`, `Orbit`, `Payload Mass`, `Booster Version`
 - Test accuracy: 94.4%
+
 ![image](https://github.com/user-attachments/assets/651e2cd5-c000-4a72-b0d8-73f17b47f4d7)
 
 
